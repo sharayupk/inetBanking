@@ -1,0 +1,8 @@
+on command prompt/git bash here-- go to the workspace of ur selenium project
+1]git init -----> create new empty git local repository
+2]git remote add origin "https://github.com/sharayupk/inetBanking.git"  -----> ur Repository name
+3]git status ----> what are files ready to commit in git repository
+4]git add .  ----> add all files to staging area
+5]git status
+6]git commit -m "add comment" ---> commit all the files in git repository
+7]git push origin master  --->pushing all files from git[local repo] to github[remote repo]

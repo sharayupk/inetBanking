@@ -1,0 +1,70 @@
+1]Run Test using Maven pom.xml--->
+
+In pom.xml file add Maven Compiler ad Surefire Plugins.
+<!-- Plug-ins required for executing Tests -->
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<source>1.6</source>
+					<target>1.6</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.18.1</version>
+				<configuration>
+					<suiteXmlFiles>
+						<!-- TestNG suite XML files -->
+						<suiteXmlFile>testng.xml</suiteXmlFile>
+					</suiteXmlFiles>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
+
+Go to pom.xml file in your project--->right click--->click on maven test.
+
+2]Run Test using Maven CLI[Command Prompt]--->
+Download maven unzip the folder and put Apache Maven folder into C directory.
+Go to Env variables-->create MAVEN_HOME and M2_HOME variables and add C:\apache-maven-3.8.4 as valueand click on ok.
+Go to PATH--->copy C:\apache-maven-3.8.4\bin\ and paste.clik on Ok[Same for JAVA i.e JDK].Also paste %M2_HOME%\bin in PATH.
+
+Open cmd type mvn -version to see the version of maven installe on ur system.
+On cmd type "cd C:\Sharayu\workspace\inetBankingV1" [go to ur project home directory].Click on Enter.
+Type mvn clean install and press Enter.Ur test case will be executed.
+
+3]Run Test using Maven using run.bat file--->
+Go to ur project home directory and create run.bat file.
+Paste C:\Sharayu\workspace\inetBankingV1[project home directory path] and mvn clean install.Save the file.
+Double click the bat file to execute the test case.
+
+4]Run Test using Jenkins--->
+
+a)Execute project using Free Style project(run.bat)--->
+Download Jenkins.
+
+Go to NewItem--->Item Name[project name]---->click on freestyle Project---->Build section---->
+Type cd C:\Sharayu\workspace\inetBankingV1
+run.bat
+
+Save--->Build Now.
+
+b)Execute project using Maven(pom.xml)---->
+Go to Manage plugins--->Type maven--->select Maven Integration,Maven Release plugin,Maven Invoker,Maven Repository Scheduled cleanup,
+Repository connector,Maven Info,Maven Repository server.--->Clink on Install without restart button.
+
+Go to Manage Jenkins--->Global Tool Configuration--->Add JDK---->Enter any name[myJDK] and in JAVA_HOME give jdk path i.e [C:\Program Files\Java\jdk1.8.0_301]---->Apply and Save.
+
+Go to NewItem--->Item Name[project name]---->click on Maven Project---->Build section---->Enter pom.xml path of ur project to Root POM
+i.e C:\Sharayu\workspace\inetBankingV1\pom.xml and "clean install" in Goals and Options.
+
+Click on Post Build Actions--->Select TestNG Results[Also add TestNG plugin from Manage Jenkins].--->Enter **/testng-results.xml in Publish
+TestNG Results section---->Click on apply and save---?click on Build Now to execute test case.
+
+
+
+

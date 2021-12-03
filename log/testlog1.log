@@ -1,0 +1,92 @@
+2021-12-01 14:35:25,893 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:35:35,629 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:35:35,779 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:35:35,886 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 14:35:38,170 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:35:42,565 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:35:42,713 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:35:42,771 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 14:35:44,970 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:35:49,277 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:35:49,418 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:35:50,628 [main] INFO inetBanking - Login Done Successfully
+2021-12-01 14:35:52,830 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:35:57,638 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:35:57,788 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:35:59,086 [main] INFO inetBanking - Validating if Manager ID is present on Home Page
+2021-12-01 14:36:01,342 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:36:05,917 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:36:06,072 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:36:07,808 [main] INFO inetBanking - Clicking on New Cuctomer Link on Home Page
+2021-12-01 14:42:01,340 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:42:06,568 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:42:06,718 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:42:06,896 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 14:42:09,146 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:42:13,613 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:42:13,758 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:42:13,799 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 14:42:16,056 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 14:42:20,624 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 14:42:20,766 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 14:42:22,070 [main] INFO inetBanking - Login Done Successfully
+2021-12-01 15:00:08,585 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 15:00:20,726 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 15:00:20,867 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 15:00:21,035 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 15:00:23,229 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 15:00:28,392 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 15:00:28,534 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 15:00:28,557 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 15:00:30,789 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 15:00:44,523 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 15:00:44,676 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 15:00:45,898 [main] INFO inetBanking - Login Done Successfully
+2021-12-01 15:04:53,331 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 15:05:01,151 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 15:05:01,293 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 15:05:01,423 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 15:05:03,658 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 15:05:07,945 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 15:05:08,108 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 15:05:08,169 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 15:05:10,392 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 15:05:16,224 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 15:05:16,351 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 15:05:17,839 [main] INFO inetBanking - Login Done Successfully
+2021-12-01 16:05:29,779 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 16:05:34,897 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 16:05:35,025 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 16:05:35,204 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 16:05:37,678 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 16:05:43,488 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 16:05:43,638 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 16:05:43,672 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 16:05:46,142 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 16:05:58,375 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 16:05:58,515 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 16:05:59,942 [main] INFO inetBanking - Login Done Successfully
+2021-12-01 17:26:53,942 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 17:26:58,274 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 17:26:58,405 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 17:26:58,591 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 17:27:01,141 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 17:27:05,710 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 17:27:05,861 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 17:27:05,907 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 17:27:08,412 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 17:27:13,007 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 17:27:13,141 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 17:27:14,394 [main] INFO inetBanking - Login Done Successfully
+2021-12-01 17:29:27,433 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 17:29:31,852 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 17:29:31,982 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 17:29:32,152 [main] INFO inetBanking - Validating Login Page Logo
+2021-12-01 17:29:34,689 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 17:29:39,144 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 17:29:39,283 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 17:29:39,312 [main] INFO inetBanking - Validating Login Page Title
+2021-12-01 17:29:41,865 [main] INFO inetBanking - Launching Chrome Browser
+2021-12-01 17:29:50,564 [main] INFO inetBanking - Launching URL of the Application
+2021-12-01 17:29:50,691 [main] INFO inetBanking - Maximizing Browser
+2021-12-01 17:29:52,024 [main] INFO inetBanking - Login Done Successfully

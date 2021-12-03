@@ -1,0 +1,11 @@
+com\inetBanking\pageObjects\HomePage.class
+com\inetBanking\testCases\LoginPageTest.class
+com\inetBanking\testCases\LoginPageTestDDT.class
+com\inetBanking\utilities\Reporting.class
+com\inetBanking\pageObjects\AddNewCustPage.class
+com\inetBanking\testCases\AddNewCustPageTest.class
+com\inetBanking\utilities\XLUtils.class
+com\inetBanking\pageObjects\LoginPage.class
+com\inetBanking\testCases\BaseClass.class
+com\inetBanking\testCases\HomePageTest.class
+com\inetBanking\utilities\Utility.class

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InetBankingV1" duration-ms="28715" started-at="2021-12-01T17:29:24 IST" finished-at="2021-12-01T17:29:52 IST">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="28715" started-at="2021-12-01T17:29:24 IST" finished-at="2021-12-01T17:29:52 IST">
+      <class name="com.inetBanking.testCases.LoginPageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="initialization" is-config="true" duration-ms="7742" started-at="2021-12-01T17:29:24 IST" finished-at="2021-12-01T17:29:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateGuru99LogoTest()[pri:1, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="validateGuru99LogoTest" duration-ms="152" started-at="2021-12-01T17:29:32 IST" finished-at="2021-12-01T17:29:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGuru99LogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="tearDown" is-config="true" duration-ms="652" started-at="2021-12-01T17:29:32 IST" finished-at="2021-12-01T17:29:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="initialization" is-config="true" duration-ms="6483" started-at="2021-12-01T17:29:32 IST" finished-at="2021-12-01T17:29:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="validateTitleTest()[pri:2, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="validateTitleTest" duration-ms="0" started-at="2021-12-01T17:29:39 IST" finished-at="2021-12-01T17:29:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="tearDown" is-config="true" duration-ms="678" started-at="2021-12-01T17:29:39 IST" finished-at="2021-12-01T17:29:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="initialization" is-config="true" duration-ms="10728" started-at="2021-12-01T17:29:39 IST" finished-at="2021-12-01T17:29:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="loginTest" duration-ms="1314" started-at="2021-12-01T17:29:50 IST" finished-at="2021-12-01T17:29:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.LoginPageTest@369f73a2]" name="tearDown" is-config="true" duration-ms="780" started-at="2021-12-01T17:29:52 IST" finished-at="2021-12-01T17:29:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.LoginPageTest -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>

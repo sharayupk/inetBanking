@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="InetBankingV1" duration-ms="14037" started-at="2021-11-29T10:25:27Z" finished-at="2021-11-29T10:25:41Z">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="14037" started-at="2021-11-29T10:25:27Z" finished-at="2021-11-29T10:25:41Z">
+      <class name="com.inetBanking.testCases.AddNewCustPageTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.inetBanking.testCases.AddNewCustPageTest@78c03f1f]" name="initialization" is-config="true" duration-ms="8100" started-at="2021-11-29T15:55:27Z" finished-at="2021-11-29T15:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="addNewCuctomerTest()[pri:1, instance:com.inetBanking.testCases.AddNewCustPageTest@78c03f1f]" name="addNewCuctomerTest" duration-ms="5664" started-at="2021-11-29T15:55:35Z" finished-at="2021-11-29T15:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCuctomerTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.inetBanking.testCases.AddNewCustPageTest@78c03f1f]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-11-29T15:55:41Z" finished-at="2021-11-29T15:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetBanking.testCases.AddNewCustPageTest -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- InetBankingV1 -->
+</testng-results>
